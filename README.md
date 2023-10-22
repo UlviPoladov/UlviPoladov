@@ -1,8 +1,8 @@
-[![](https://visitcount.itsvg.in/api?id=UlviPoladov&icon=0&color=1)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 🌱 I’m currently learning C#<br><br>📫 How to reach me ulvi.poladov207@gmail.com
 
+[![](https://visitcount.itsvg.in/api?id=UlviPoladov&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ulv1.cpp) 
