@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🌱 I’m currently learning System Programing<br><br>📫 How to reach me ulvi.poladov207@gmail.com
+🌱 I’m currently learning Network<br><br>📫 How to reach me ulvi.poladov207@gmail.com
 
 [![](https://visitcount.itsvg.in/api?id=UlviPoladov&icon=0&color=1)](https://visitcount.itsvg.in)
 
